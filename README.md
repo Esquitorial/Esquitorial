@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 ### 📝 Latest Posts
 https://allmylinks.com/esquitorial
 ### 🤖 Automated Content Dump
+``BLOG-POST-LIST:START
+``BLOG-POST-LIST:END
