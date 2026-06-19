@@ -16,5 +16,5 @@ jobs:
       - name: Pull RSS Feeds
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://substack.com/feed/@Esquitorial, https://esquitorial.blogspot.com/feeds/posts/default, https://esquitorialesq.tumblr.com/rss"
+          feed_list: "https://esquitorial.substack.com/feed, https://esquitorial.blogspot.com/feeds/posts/default, https://esquitorialesq.tumblr.com/rss"
           max_post_count: 5
